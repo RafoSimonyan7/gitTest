@@ -1,3 +1,11 @@
 body {
     background-color: rgb(128, 81, 81);
 }
+
+p {
+    color: blueviolet;
+}
+
+h2 {
+    font-style: italic;
+}
